@@ -1,4 +1,4 @@
-package com.rubix.rubixcore;
+package com.rubix.rubixcore.sample;
 
 import androidx.appcompat.app.AppCompatActivity;
 
