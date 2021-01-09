@@ -1,0 +1,3 @@
+include ':app:rubixcore'
+include ':app'
+rootProject.name = "Rubix Core"
